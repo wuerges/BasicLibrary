@@ -1,1 +1,125 @@
 # depslib dependency file v1.0
+1507061163 source:/home/josebins/Programas/BasicLibrary/src/BCommandLine.cpp
+	"BCommandLine.h"
+	<stdio.h>
+
+1507064171 /home/josebins/Programas/BasicLibrary/include/BCommandLine.h
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+
+1507061163 source:/home/josebins/Programas/BasicLibrary/src/BFile.cpp
+	"BFile.h"
+
+1507061163 /home/josebins/Programas/BasicLibrary/include/BFile.h
+	<direct.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<string.h>
+	<stdio.h>
+	"BFunctions.h"
+	"BState.h"
+
+1507061163 /home/josebins/Programas/BasicLibrary/include/BFunctions.h
+	<string.h>
+	<math.h>
+	<stdio.h>
+
+1507061163 /home/josebins/Programas/BasicLibrary/include/BState.h
+	<string.h>
+	<limits.h>
+	<stdio.h>
+
+1507061163 source:/home/josebins/Programas/BasicLibrary/src/BFunctions.cpp
+	"BFunctions.h"
+
+1507061163 source:/home/josebins/Programas/BasicLibrary/src/BMessages.cpp
+	"BMessages.h"
+
+1507061163 /home/josebins/Programas/BasicLibrary/include/BMessages.h
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"BPoint.h"
+	<stdarg.h>
+	"cv.h"
+	"openCVImage.h"
+	<afxwin.h>
+	"BFile.h"
+
+1507061163 /home/josebins/Programas/BasicLibrary/include/BPoint.h
+	<stdio.h>
+	"BFunctions.h"
+
+1507061163 source:/home/josebins/Programas/BasicLibrary/src/BPoint.cpp
+	"BPoint.h"
+
+1507061163 source:/home/josebins/Programas/BasicLibrary/src/BSet.cpp
+	"BSet.h"
+
+1507061163 /home/josebins/Programas/BasicLibrary/include/BSet.h
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	"BString.h"
+
+1507061163 /home/josebins/Programas/BasicLibrary/include/BString.h
+	<string.h>
+	<stdarg.h>
+	<stdio.h>
+	"BFunctions.h"
+
+1507061163 source:/home/josebins/Programas/BasicLibrary/src/BState.cpp
+	"BState.h"
+
+1507061163 source:/home/josebins/Programas/BasicLibrary/src/BString.cpp
+	"BString.h"
+
+1507061163 source:/home/josebins/Programas/BasicLibrary/src/BTimeStatistics.cpp
+	"BTimeStatistics.h"
+
+1507061163 /home/josebins/Programas/BasicLibrary/include/BTimeStatistics.h
+	<time.h>
+	<stdio.h>
+	"BTree.h"
+	"BFile.h"
+	<windows.h>
+
+1507061163 /home/josebins/Programas/BasicLibrary/include/BTree.h
+	<stdio.h>
+	"BFunctions.h"
+	"BList.h"
+
+1507309701 /home/josebins/Programas/BasicLibrary/include/BList.h
+	<string.h>
+	<stdio.h>
+	<stdarg.h>
+	"BFunctions.h"
+
+1507061163 source:/home/josebins/Programas/BasicLibrary/src/BVector.cpp
+	"BVector.h"
+
+1507061163 /home/josebins/Programas/BasicLibrary/include/BVector.h
+	"BPoint.h"
+
+1507061163 source:/home/josebins/Programas/BasicLibrary/src/nrutil.cpp
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	"nrutil.h"
+	<math.h>
+	"nrutil.h"
+	<math.h>
+	<math.h>
+	<math.h>
+
+1507061163 /home/josebins/Programas/BasicLibrary/include/nrutil.h
+

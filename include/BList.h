@@ -269,9 +269,9 @@ public:
 	/// Function that returns a pointer to the last node. If there are no nodes it returns NULL.
 	BListNode<Td,Tk> * getLast();
 	/// Function that returns true is the current node is the first node or false otherwise
-	bool isFirst() {current == first;};
+	bool isFirst() {return (current == first);};
 	/// Function that returns true is the current node is the last node or false otherwise
-	bool isLast() {current == last;};
+	bool isLast() {return (current == last);};
 	/// Function that returns the index for the current node.
 	int getCurrentIndex();
 	/// Function that returns the key for the current node.

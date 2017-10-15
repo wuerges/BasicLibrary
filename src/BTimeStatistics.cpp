@@ -330,7 +330,7 @@ char * BTimeObject::getName( BTimeObject * obj) {
 	if (obj != NULL)
 		return obj->getName();
 
-	return "NULL";
+	return NULL;
 }
 
 char * clocksToTime(clock_t tm) {
@@ -352,7 +352,7 @@ char * clocksToTime(clock_t tm) {
 	cks = (long int)tm;
 
 
-    sprintf(str,"%02d:%02d:%02d:%03d (%Ld cliks)", h, m, s, ms, cks);
+    sprintf(str,"%02ld:%02ld:%02ld:%03ld (%ld cliks)", h, m, s, ms, cks);
 
 	return str;
 
@@ -423,10 +423,12 @@ BTimeStatistics::~BTimeStatistics(){
 BTreeNode<BTimeObject*> * BTimeStatistics::getChildBTimeObject(char* ton) {
 
 	BTreeNode<BTimeObject*> * pt = current->getFirstChild();
-	char * name;
-        if (pt != NULL) name = pt->getData()->getName();
+	//char * name;
+    //if (pt != NULL)
+    //    name = pt->getData()->getName();
 	while (pt != NULL && strcmp(pt->getData()->getName(), ton) != 0) {
-        if (pt != NULL) name = pt->getData()->getName();
+        //if (pt != NULL)
+        //    name = pt->getData()->getName();
 		pt = current->getNextChild();
     }
 
