@@ -168,7 +168,7 @@ template <class T> T getCommandLineParameter(int nc,
 
 	int i;
 	int desl;
-	T type = NULL;
+	T type;
 	bool hasname = false;
 	bool hasequal = false;
 	bool hasvalue = false;

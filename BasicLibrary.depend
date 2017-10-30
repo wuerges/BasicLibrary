@@ -3,7 +3,7 @@
 	"BCommandLine.h"
 	<stdio.h>
 
-1507064171 /home/josebins/Programas/BasicLibrary/include/BCommandLine.h
+1509390556 /home/josebins/Programas/BasicLibrary/include/BCommandLine.h
 	<string.h>
 	<ctype.h>
 	<stdlib.h>
@@ -80,7 +80,7 @@
 1507061163 source:/home/josebins/Programas/BasicLibrary/src/BString.cpp
 	"BString.h"
 
-1507061163 source:/home/josebins/Programas/BasicLibrary/src/BTimeStatistics.cpp
+1507310316 source:/home/josebins/Programas/BasicLibrary/src/BTimeStatistics.cpp
 	"BTimeStatistics.h"
 
 1507061163 /home/josebins/Programas/BasicLibrary/include/BTimeStatistics.h
