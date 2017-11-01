@@ -2,52 +2,7 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="include/BFile.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="4794" topLine="109" />
-		</Cursor>
-	</File>
-	<File name="include/BTimeStatistics.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1533" topLine="96" />
-		</Cursor>
-	</File>
-	<File name="include/BTree.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="7414" topLine="259" />
-		</Cursor>
-	</File>
-	<File name="src/BTimeStatistics.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="8934" topLine="417" />
-		</Cursor>
-	</File>
-	<File name="include/BString.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="0" topLine="98" />
-		</Cursor>
-	</File>
-	<File name="include/BPoint.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="5265" topLine="136" />
-		</Cursor>
-	</File>
-	<File name="include/BFunctions.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1623" topLine="228" />
-		</Cursor>
-	</File>
-	<File name="include/BCommandLine.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="5008" topLine="222" />
-		</Cursor>
-	</File>
-	<File name="src/BPoint.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="0" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="include/BList.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="include/BList.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="10414" topLine="265" />
 		</Cursor>
@@ -57,14 +12,59 @@
 			<Cursor1 position="7017" topLine="11" />
 		</Cursor>
 	</File>
-	<File name="include/BMessages.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="include/BFunctions.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="2263" topLine="47" />
+			<Cursor1 position="1623" topLine="228" />
+		</Cursor>
+	</File>
+	<File name="include/BPoint.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5265" topLine="136" />
+		</Cursor>
+	</File>
+	<File name="include/BFile.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4794" topLine="109" />
+		</Cursor>
+	</File>
+	<File name="src/BPoint.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include/BCommandLine.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4886" topLine="162" />
+		</Cursor>
+	</File>
+	<File name="include/BTimeStatistics.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1533" topLine="96" />
 		</Cursor>
 	</File>
 	<File name="src/BCommandLine.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="483" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src/BTimeStatistics.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8934" topLine="417" />
+		</Cursor>
+	</File>
+	<File name="include/BTree.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7414" topLine="259" />
+		</Cursor>
+	</File>
+	<File name="include/BMessages.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2263" topLine="47" />
+		</Cursor>
+	</File>
+	<File name="include/BString.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="98" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>
